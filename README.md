@@ -1,3 +1,4 @@
+[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/7zr2uvhqka/badge.svg)](https://ask.thili.ai/b/7zr2uvhqka)
 # Game Action Predictor
 
 A reproducible sports-event sequence mining and next-action prediction project. It converts basketball play-by-play rows into possession-level baskets, mines frequent action itemsets, trains a next-action sequence model, evaluates held-out predictions, and exposes predictions through a CLI.
